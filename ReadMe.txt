@@ -1,0 +1,1 @@
+A little set of routines and a test driver to read table or array properties: whether it is (re)dimensioned or still undimensioned, the number of dimensions, LBound and UBound for each dimension and a few other things that may come in handy. No fuss about skipping around Errors or such, just the proper way to do it.
